@@ -1,2 +1,37 @@
-# Anti-Drunk-and-Drive
-Anti drunk and drive project - Whenever a person consumes alcohol and drives a vehicle it detects the alcohol and gives the warning message in the form of alarm(buzzer) and a red LED will automatically gets on else a green LED is on.  Project is done by using components or hardware like arduino uno board ,mq3 alcohol sensors ,green ,red LED's and a buzzer.  The software used for our project is arduino uno application, to write source code we used C++ lang.,
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Mohammed-Imdaad/Anti-Drunk-and-Drive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mohammed-Imdaad/Anti-Drunk-and-Drive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
